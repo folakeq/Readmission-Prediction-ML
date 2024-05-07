@@ -1,0 +1,22 @@
+,diagnosis_type,diagnosis_code,diagnosis_desc
+0,0,null values,Unknown
+1,1,249_250_253.5_588.1,diabetes
+2,2,1_139,Infectious And Parasitic Diseases
+3,3,140_239,Neoplasms
+4,4,240_279,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+5,5,280_289,Diseases Of The Blood And Blood-Forming Organs
+6,6,290_319,Mental Disorders
+7,7,320_389,Diseases Of The Nervous System And Sense Organs
+8,8,390_459,Diseases Of The Circulatory System
+9,9,460_519,Diseases Of The Respiratory System
+10,10,520_579,Diseases Of The Digestive System
+11,11,580_629,Diseases Of The Genitourinary System
+12,12,630_679,Complications Of Pregnancy Childbirth And The Puerperium
+13,13,680_709,Diseases Of The Skin And Subcutaneous Tissue
+14,14,710_739,Diseases Of The Musculoskeletal System And Connective Tissue
+15,15,740_759,Congenital Anomalies
+16,16,760_779,Certain Conditions Originating In The Perinatal Period
+17,17,780_799,"Symptoms, Signs And Ill_Defined Conditions"
+18,18,800_999,Injury And Poisoning
+19,19,V01_V91,Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services
+20,20,E000_E999,Supplementary Classification Of External Causes Of Injury And Poisoning
